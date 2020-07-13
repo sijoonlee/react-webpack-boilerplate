@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom";
 import React, {useRef} from "react";
-
+import './index.scss';
 
 const AppView = () => {
     return (
